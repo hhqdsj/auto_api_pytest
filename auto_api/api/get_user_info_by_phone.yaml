@@ -1,0 +1,13 @@
+url:
+  protocol: https://
+  environment: t-
+  ip: XXX/getuserinfo
+
+method: get
+headers:
+  origin: gaodun.com
+
+params:
+  account: 13391051226
+
+

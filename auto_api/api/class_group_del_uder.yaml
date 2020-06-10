@@ -1,0 +1,15 @@
+url:
+  protocol: http://
+  environment: t-
+  ip: XXX/v1/delete_group_member
+method: post
+headers:
+
+data:
+  GroupId: '@TGS#2AWED4OGK'
+  UserSig: '4430'
+  UserId: '1'
+  MemberToDel_Account:
+    - '10382170'
+
+

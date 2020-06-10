@@ -1,0 +1,29 @@
+#api接口参数地址
+get_user_info_by_phone_api: get_user_info_by_phone.yaml
+
+
+#测试用例数据地址
+
+#test_get_user_info.py的用例数据文件名
+test_get_user_info_case: test_get_user_info.yaml
+
+
+
+#系统配置数据
+#接口运行环境配置
+environment: t-
+#environment: pre-
+#environment:
+
+
+#数据库配置
+database_conf:
+  host: "192.168.6.64"
+  port: 3306
+  user: test
+  passw: password
+  database: ''
+  charset: utf8
+
+
+

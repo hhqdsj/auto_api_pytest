@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="PO_UI_Test_Framework001.element_infos.login.login_page.common" />
+          <option value="common.log_utils" />
+          <option value="pythonGit.work_517.teatcase.test_shopping.work_517" />
+          <option value="common.base_page" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

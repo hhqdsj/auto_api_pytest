@@ -1,0 +1,9 @@
+-
+   - 17644444444
+   - 成功
+   - SELECT uid FROM db_ucenter.gd_members WHERE phone = '17644444444';
+-
+   - 17644444445
+   - 成功
+   - SELECT uid FROM db_ucenter.gd_members WHERE phone = '17644444445';
+
